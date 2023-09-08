@@ -1,2 +1,15 @@
 # TO_DO_Lists_Using_Django
 A simple webapp where users can maintain Tasks and SubTasks in this website.
+
+<h2>WELLCOME TO "ACHIEVE".</h2>
+<h4>Set a goal. Save your tasks in ACHIEVE to reach goal. Achieve it with "ACHIEVE".</h4>
+<h2>About</h2>
+<p>ACHIEVE is a simple website to maintain TODOLISTS of users.<br>
+
+Users can maintain Tasks and SubTasks in this website.
+Before users store the tasks, users have to register and login in to website.<br>
+It is safe i.e., data storing and viewing can be done by login into the account.<br>
+What are you waiting for<br>If you are new here.
+<a href="http://127.0.0.1:8000/register/">REGISTER HERE</a><br>
+If you already have an account.<a href="http://127.0.0.1:8000/login/">LOGIN HERE</a><br>
+Don't forget to LOGOUT after completing your job.<a href="http://127.0.0.1:8000/logout/">LOGOUT HERE</a><br></p>
